@@ -1,8 +1,11 @@
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/beberlei/assert.svg?style=plastic)](https://scrutinizer-ci.com/g/beberlei/assert/?branch=master)
+[![Scrutinizer Coverage](https://img.shields.io/scrutinizer/coverage/g/beberlei/assert.svg?style=plastic)](https://scrutinizer-ci.com/coverage/g/beberlei/assert/?branch=master)
+[![Scrutinizer Build Status](https://img.shields.io/scrutinizer/build/g/beberlei/assert.svg?style=plastic)](https://scrutinizer-ci.com/build/g/beberlei/assert/?branch=master)
+[![Travid Build Status](https://img.shields.io/travis/beberlei/assert.svg?style=plastic)](https://travis-ci.org/beberlei/assert)
+[![Latest Stable Version](https://img.shields.io/packagist/v/beberlei/assert.svg?style=plastic)](https://packagist.org/packages/beberlei/assert)
+[![Packagist](https://img.shields.io/packagist/dt/beberlei/assert.svg?style=plastic)](https://packagist.org/packages/beberlei/assert)
+
 # Assert
-
-Travis Status: [![Build Status](https://travis-ci.org/beberlei/assert.svg?branch=master)](https://travis-ci.org/beberlei/assert)
-
-Latest version: [![Latest Stable Version](https://poser.pugx.org/beberlei/assert/v/stable)](https://packagist.org/packages/beberlei/assert)
 
 A simple php library which contains assertions and guard methods for input validation (not filtering!) in business-model, libraries and application low-level code.
 The library can be used to implement pre-/post-conditions on input data.
